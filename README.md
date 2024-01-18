@@ -7,13 +7,8 @@ Cron is a time-based job scheduler in Unix-like operating systems. It allows use
 
 Here's a basic overview of how the crontab syntax works:
 
-*   *  *  *   * command-to-be-executed
-|   |   |   |   |
-|   |   |   |   +----- Day of the week (0 - 6) (Sunday = 0)
-|   |   |   +------- Month (1 - 12)
-|   |   +--------- Day of the month (1 - 31)
-|  +----------- Hour (0 - 23)
-+------------- Minute (0 - 59)
+![image](https://github.com/Hemant9766/Shell-script/assets/124518606/af2ab54a-01f1-4255-8785-532997a3f823)
+
 
 crontab -e : create a cron-job and schedule tack.
 crontab -l : list the cron-job

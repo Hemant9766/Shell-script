@@ -9,6 +9,5 @@ Here's a basic overview of how the crontab syntax works:
 
 ![image](https://github.com/Hemant9766/Shell-script/assets/124518606/af2ab54a-01f1-4255-8785-532997a3f823)
 
-
 crontab -e : create a cron-job and schedule tack.
 crontab -l : list the cron-job
